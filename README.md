@@ -1,6 +1,6 @@
-# MSTDDE
+# MTSDDE
 
-This is the original pytorch implementation of MSTDDE.
+This is the original pytorch implementation of MTSDDE.
 
 ## Requirements
 - python 3.7
@@ -9,10 +9,11 @@ This is the original pytorch implementation of MSTDDE.
 - pandas == 1.1.5
 - torch == 1.10.1
 - scikit-learn==0.24.0
+- torchdiffeq==0.2.4
 
 
 ## Data
-The dataset used in the paper can be downloaded from [Time-Series-Library](https://github.com/thuml/Time-Series-Library).
+The time series datasets used in the paper can be downloaded from [Time-Series-Library](https://github.com/thuml/Time-Series-Library).
 
 The LargeST dataset used in the paper can be downloaded from [LargeST](https://github.com/liuxu77/LargeST).
 
